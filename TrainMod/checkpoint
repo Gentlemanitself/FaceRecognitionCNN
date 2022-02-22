@@ -1,0 +1,2 @@
+model_checkpoint_path: "2590_test_model"
+all_model_checkpoint_paths: "2590_test_model"
